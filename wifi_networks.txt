@@ -1,0 +1,266 @@
+Profile iPhone on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : iPhone
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "iPhone"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP-256
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA3-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+    Key Content            : hY9#7rVt
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+Profile OKS on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : OKS
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "OKS"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Protected EAP (PEAP)
+    802.1X auth credential : User credential
+    Credentials configured : No
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+Profile iPhone Yk on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : iPhone Yk
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "iPhone Yk"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP-256
+    Authentication         : WPA3-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA3-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+    Key Content            : qwerty123
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+Profile eduroam on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : eduroam
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "eduroam"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Protected EAP (PEAP)
+    802.1X auth credential : User credential
+    Credentials configured : No
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+Profile Elnur  on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Aida_5G
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Aida_5G"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+    Key Content            : aida2698
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+Profile ALHN-92EF-5 on interface Беспроводная сеть: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : ALHN-92EF-5
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "ALHN-92EF-5"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+    Key Content            : 3963843082
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
